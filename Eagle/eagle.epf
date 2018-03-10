@@ -1,0 +1,44 @@
+[Eagle]
+Version="07 04 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-7.3.0/lbr/crystal.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/diode.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/led.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/linear.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/pinhead.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/pot.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/rcl.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/supply1.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/supply2.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/telefunken.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/transistor-power.lbr"
+UsedLibrary="C:/Users/Rodos/Documents/eagle/Libs/Misc.lbr"
+UsedLibrary="C:/Users/Rodos/Documents/eagle/EAGLE-lbr/atmega-atxmega.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/con-cypressindustries.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/con-molex.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/con-phoenix-350.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/con-ptr500.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-7.2.0/lbr/v-reg.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-lbr/mc34063.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-lbr/con-usb-3.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-lbr/con-usb.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-lbr/con-usb-2.lbr"
+UsedLibrary="C:/Users/Rodos/Documents/eagle/EAGLE-lbr/stm32.lbr"
+UsedLibrary="C:/Users/Rodos/Documents/eagle/EAGLE-lbr/SparkFun-Eagle-Libraries/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Users/Rodos/Documents/eagle/EAGLE-lbr/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 1919 1137"
+State=2
+Number=0
+
+[Desktop]
+Screen="3200 1200"
+Window="Win_1"
